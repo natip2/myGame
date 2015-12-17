@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Factory>
+  <Employee UIOption="1" ClassName="Test.OfficeEmployee"/>
+  <Employee UIOption="2" ClassName="Test.TrainerEmployee"/>
+</Factory>
+

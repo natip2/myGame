@@ -1,0 +1,6 @@
+humanPlayer: add memento.
+before play ask for back. 
+ask for memento.
+
+gameclass add winner
+print after each step
