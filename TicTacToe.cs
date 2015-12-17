@@ -13,6 +13,7 @@ namespace Test
         const int BOARD_SIZE = 3;
         const int NUM_IN_ROW_FOR_WIN = 3;
 
+
         public event EventHandler BoardChanged;
         protected List<BoardCell> _board;
 
